@@ -1,12 +1,12 @@
 # SchoolProjectsCollection
-Here is my school project
+Here is my school project<br>
 
-#third year project with my friend
-team member-2
+#third year project with my friend<br>
+team member-2<br>
 
 <a href="https://github.com/Chitnanko/VideoDownladManager">VideoDownloadManager</a>
         
- #fourth year project with my firend
- team member-3
+ #fourth year project with my firend<br>
+ team member-3<br>
  <a href="https://github.com/Chitnanko/Mtaxi">Mtaxi</a>
  
